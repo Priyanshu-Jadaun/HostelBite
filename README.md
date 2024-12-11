@@ -73,4 +73,3 @@ Develop a solution for Food wastage management in college mess. The solution sho
 
     The admin can press "Scan New" to check a new QR code.
 
-## ❤️ Team Zenith
